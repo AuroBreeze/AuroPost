@@ -1,6 +1,6 @@
 ---
 time: 2025-5-26 12:00:00
-tags: ["start"]
+tags: [start]
 author: "AuroBreeze"
 ---
 
